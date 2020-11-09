@@ -1,4 +1,4 @@
 # portfolio
-# Find my portfolio and contact me for on my contact address.
+# Find my portfolio and contact me on my email address.
 #Thanks!!
 
